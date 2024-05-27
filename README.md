@@ -26,7 +26,7 @@ To run the service locally, follow these steps:
 2. Navigate to the project directory.
 3. Install the dependencies using `npm install`.
 4. Set up your environment variables, including the Mapbox API key.
-5. Start the server using `npm start`.
+5. Start the server using `npm run start:dev`.
 
 ## Usage
 
